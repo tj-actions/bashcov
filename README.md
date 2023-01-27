@@ -4,7 +4,7 @@
 
 ## bashcov
 
-Github action that run [bashcov](https://github.com/infertux/bashcov).
+Github action that runs [bashcov](https://github.com/infertux/bashcov).
 
 ```yaml
 ...
@@ -41,6 +41,8 @@ If you feel generous and want to show some extra appreciation:
 ## Credits
 
 This package was created with [Cookiecutter](https://github.com/cookiecutter/cookiecutter) using [cookiecutter-action](https://github.com/tj-actions/cookiecutter-action)
+
+- https://about.codecov.io/blog/how-to-get-coverage-metrics-for-bash-scripts/
 
 ## Report Bugs
 
