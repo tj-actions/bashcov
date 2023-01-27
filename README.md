@@ -42,7 +42,7 @@ If you feel generous and want to show some extra appreciation:
 
 This package was created with [Cookiecutter](https://github.com/cookiecutter/cookiecutter) using [cookiecutter-action](https://github.com/tj-actions/cookiecutter-action)
 
-- https://about.codecov.io/blog/how-to-get-coverage-metrics-for-bash-scripts/
+*   https://about.codecov.io/blog/how-to-get-coverage-metrics-for-bash-scripts/
 
 ## Report Bugs
 
