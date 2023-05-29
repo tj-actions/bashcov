@@ -18,9 +18,9 @@ Github action that runs [bashcov](https://github.com/infertux/bashcov).
 
 <!-- AUTO-DOC-INPUT:START - Do not remove or modify this section -->
 
-| INPUT |  TYPE  | REQUIRED |         DEFAULT         |             DESCRIPTION              |
-|-------|--------|----------|-------------------------|--------------------------------------|
-| token | string |   true   | `"${{ github.token }}"` | GITHUB\_TOKEN or a Repo scoped<br>PAT |
+| INPUT |  TYPE  | REQUIRED |         DEFAULT         |              DESCRIPTION               |
+|-------|--------|----------|-------------------------|----------------------------------------|
+| token | string |   true   | `"${{ github.token }}"` | GITHUB\_TOKEN or a Repo scoped <br>PAT  |
 
 <!-- AUTO-DOC-INPUT:END -->
 
