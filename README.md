@@ -9,7 +9,7 @@ Github action that runs [bashcov](https://github.com/infertux/bashcov).
 ```yaml
 ...
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Docker Action
         uses: tj-actions/docker-action@v1
 ```
